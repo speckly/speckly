@@ -2,7 +2,9 @@
 #### https://linktr.ee/speckles , contact me or have a chat with me with these socials
 
 
-### Hi, im a 15M passionate programmer willing to learn new things. Also a frequent gamer.
+### Hi, im a 15 year old passionate programmer willing to learn new things. Also a frequent gamer.
 My goals are to work in a job in cyber security, and make some breakthrough in the IT world.
 I would like to help people understand programming in my free time too since it really satisfies me :D
 
+## S-256 'speck' snazzagen, the RGB summoner 
+![1](https://user-images.githubusercontent.com/60218942/125155338-ac2bef00-e191-11eb-97e8-421b9aa28602.png)
