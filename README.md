@@ -9,8 +9,8 @@ I dislike being left out in a discussion because I dont understand it so I will 
 ### Current education: Singapore Polytechnic, Diploma in Infocomm Security Management
 
 ##### S-256 'speck' snazzagen, the RGB summoner 
-![1](https://user-images.githubusercontent.com/60218942/125155338-ac2bef00-e191-11eb-97e8-421b9aa28602.png)
+![7](https://user-images.githubusercontent.com/60218942/203936735-cab0212d-691c-44f7-baa7-82466a95047a.png)
 > print("Hello world!")
 
-![8](https://user-images.githubusercontent.com/60218942/125155585-99b2b500-e193-11eb-9410-d848ec4bc7f2.png)
+![8](https://user-images.githubusercontent.com/60218942/203936964-c6fb8981-b77b-45b6-8e20-96d7f636f501.png)
 > What do you mean by "RGB doesn't increase FPS?"
