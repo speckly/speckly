@@ -1,4 +1,4 @@
-## @cheetawolf , Alias: speckles snazzagen/snazzawolf
+## @speckly , Alias: speckles snazzagen/snazzawolf
 
 Self motivated individual that is always trying new things in the world. Highly passionate, experienced and proficient in anything related to IT. 
 
