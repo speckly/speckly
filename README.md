@@ -12,6 +12,6 @@ Current education: Singapore Polytechnic, Diploma in Cybersecurity and Digial Fo
 Contact me or have a chat with me with these [socials](https://linktr.ee/speckles)
 
 ![7](https://user-images.githubusercontent.com/60218942/203936735-cab0212d-691c-44f7-baa7-82466a95047a.png)
-```python
-print("Hello world!")
+```bash
+echo 'Hello World!'
 ```
