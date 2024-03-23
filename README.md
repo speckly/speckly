@@ -15,3 +15,7 @@ Contact me or have a chat with me with these [socials](https://linktr.ee/speckle
 ```bash
 echo 'Hello World!'
 ```
+
+<div id="header" align="center">
+  <img src="https://c.tenor.com/XUD0K8qLJYsAAAAd/tenor.gif" width="100"/>
+</div>
