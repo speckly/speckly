@@ -5,7 +5,7 @@
 Current education: Singapore Polytechnic, Diploma in Cybersecurity and Digital Forensics (Formerly Infocomm Security Management). Connect with me <a href="https://linktr.ee/speckles">here</a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speckly&label=Profile%20views&color=0e75b6&style=flat" alt="speckly" /> </p>
 
-- 🔭 I’m currently working on [sucorn](https://github.com/speckly/sucorn) and [Kurokami](https://github.com/speckly/Kurokami)
+- 🔭 I’m currently working on [sucorn](https://github.com/speckly/sucorn)
 
 - 🌱 I’m currently learning **InfoSec, Deep Learning**
 
